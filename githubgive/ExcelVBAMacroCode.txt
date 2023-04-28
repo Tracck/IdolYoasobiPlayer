@@ -1,0 +1,228 @@
+Sub ApplyColor1(nr1, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor2(nr1, nr2, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor3(nr1, nr2, nr3, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor4(nr1, nr2, nr3, nr4, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor5(nr1, nr2, nr3, nr4, nr5, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor6(nr1, nr2, nr3, nr4, nr5, nr6, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor7(nr1, nr2, nr3, nr4, nr5, nr6, nr7, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor8(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor9(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor10(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor11(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, nr11, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr11).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor12(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, nr11, nr12, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr11).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr12).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor13(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, nr11, nr12, nr13, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr11).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr12).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr13).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor14(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, nr11, nr12, nr13, nr14, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr11).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr12).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr13).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr14).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ApplyColor15(nr1, nr2, nr3, nr4, nr5, nr6, nr7, nr8, nr9, nr10, nr11, nr12, nr13, nr14, nr15, c1, c2, c3)
+
+With Sheets("AiIsMine")
+    .Range(nr1).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr2).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr3).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr4).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr5).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr6).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr7).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr8).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr9).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr10).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr11).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr12).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr13).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr14).Interior.Color = RGB(c1, c2, c3)
+    .Range(nr15).Interior.Color = RGB(c1, c2, c3)
+End With
+
+End Sub
+
+Sub ClearFormats()
+    Cells.Clear
+End Sub
