@@ -16,7 +16,7 @@ Lastly, the Image Loading algorithm isn't the best, feel free to improve it.
 
 I won't ask you to credit me for the code but it would make my day if you do!
 
-CERTAIN LIMITATIONS YOU MIGHT WANT TO KNOW:
+<b>CERTAIN LIMITATIONS YOU MIGHT WANT TO KNOW:<b\>
 - Excel can only handle 64000 different cell formats at once, if you exceed that limit
 the code breaks. You need to clear all cells' formats AND RESTART EXCEL
 
